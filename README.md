@@ -1,0 +1,1 @@
+# gkdaq-masternode
