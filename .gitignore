@@ -90,6 +90,12 @@ ENV/
 env.bak/
 venv.bak/
 
+#Pycharm files
+.idea/
+idea/
+*.xml
+*.iml
+
 # Spyder project settings
 .spyderproject
 .spyproject
